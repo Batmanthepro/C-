@@ -1,0 +1,8 @@
+#include <iostream>
+int main(){
+    int a = 10, b = 20;
+    float c = 3.1416;
+    char d = 'z';
+    std::cout<<"\nValue of a is "<<a<< "\nValue of b is " <<b<< "\nValue of pi is " <<c<< "\nValue of z is " <<d;
+    return 0;
+}
